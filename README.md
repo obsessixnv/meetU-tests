@@ -60,7 +60,7 @@ The following average scores were obtained for each bot:
 Overall, Olivia consistently performed the best across all metrics, while Mike lagged behind.
 
 ## Plots
-Insert your plots here.
+![Figure_1](https://github.com/user-attachments/assets/f1e93cb1-1b0b-4a56-a959-8bfa80f2698a)
 
 ## Conclusion
 This analysis provides insights into the performance of different chatbots. Further improvements can be made by refining the models or enhancing the dataset to boost the quality of the responses.
